@@ -15,6 +15,10 @@ java -jar reactive-0.0.1-SNAPSHOT.jar
 
 mvn spring-boot:
 
+### Pruebas
+Se puede usar cualquier herrameinta para realizar invocaciones rest. Una opcion es utilizar Imsomnia. En la raiz del proyecto, se tiene el archivo insomnia_test.json donde se colocan los request para realizar las pruebas.
+
+
 
 
 

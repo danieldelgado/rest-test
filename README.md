@@ -1,2 +1,0 @@
-# rest-test
-Rest-Test

@@ -19,7 +19,5 @@ mvn spring-boot:
 Se puede usar cualquier herrameinta para realizar invocaciones rest. Una opcion es utilizar Imsomnia. En la raiz del proyecto, se tiene el archivo insomnia_test.json donde se colocan los request para realizar las pruebas.
 
 
-
-
-
-
+### Swagger
+Para obtener el archivo swagger se obtiene de [http://localhost:8081/v2/api-docs]. 

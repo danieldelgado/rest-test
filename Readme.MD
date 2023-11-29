@@ -1,7 +1,7 @@
 # Reactive REST API
 BCI test with reactive REST API developed using Spring Boot with RxJava.
 
-Se requiere tener JDK 11 y maven 3.6.3 instalados 
+Se requiere tener JDK 11 y maven 3.8.3 instalados 
 
 ### Para ejecutar los test del servicio core
 mvn clean test

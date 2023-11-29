@@ -1,0 +1,6 @@
+mvn spring-boot:run
+
+docker build -t bci_test .
+
+docker run  --rm -it bci_test -p 8081:8081
+
